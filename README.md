@@ -1,4 +1,4 @@
-# cis209_hw_week06 - Due 10/19/2016 at 7:15 p.m.
+# cis209_hw_week06 - Due 10/18/2017 at 7:15 p.m.
 Conversion from kilograms to pounds and pounds to kilograms
 
 Write a program that displays the following two tables side by side. Include all the missing rows in the output.
